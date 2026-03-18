@@ -1,0 +1,10 @@
+{
+    "Services":  [
+                     "wuauserv",
+                     "BITS",
+                     "DoSvc"
+                 ],
+    "LogFile":  "WinNetx.log",
+    "MaxLogSizeMB":  5,
+    "ScheduleIntervalMinutes":  10
+}

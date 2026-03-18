@@ -1,0 +1,19 @@
+# Logs
+*.log
+*.log.old
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
