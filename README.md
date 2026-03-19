@@ -32,4 +32,4 @@
 هذا المشروع مفتوح المصدر ومتاح بموجب ترخيص [MIT License](LICENSE).
 
 ---
-**👨‍💻 تم التطوير بواسطة:** [webhubx](https://github.com/webhubx) | جميع الحقوق محفوظة.
+**👨‍💻 تم التطوير بواسطة:** [webhubx](https://github.com/Webhubx2022) | جميع الحقوق محفوظة.
