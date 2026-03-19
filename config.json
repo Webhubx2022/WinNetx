@@ -6,5 +6,5 @@
                  ],
     "LogFile":  "WinNetx.log",
     "MaxLogSizeMB":  5,
-    "ScheduleIntervalMinutes":  10
+    "ScheduleIntervalMinutes":  2
 }
